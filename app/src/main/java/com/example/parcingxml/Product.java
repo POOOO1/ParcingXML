@@ -20,4 +20,3 @@ public class Product {
         return  "Product: " + name + " - " + price;
     }
 }
-
